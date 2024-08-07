@@ -102,5 +102,5 @@ Contributions
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 Contact
-If you have any questions or suggestions, feel free to reach out by opening an issue on this repository.
+If you have any questions or suggestions, feel free to reach out by opening an issue on this repository. ( ceydaaguz@gmail.com )
 
